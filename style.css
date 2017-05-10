@@ -3,7 +3,7 @@ body, html {
   margin: 0;
 }
 .hero {
-  background-image:url('../img/Happy-Hounds1.jpg');
+  background-image:url('Happy-Hounds1.jpg');
   height: 100%;
   background-position: center;
   background-repeat:no-repeat;
